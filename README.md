@@ -10,6 +10,7 @@ It also allow you to search for books based on title and author.
 Clone the repository, change directories, and use NPM to install the dependencies.
 
 ```bash
+$ git clone https://github.com/alka077/React-myread
 $ npm install
 ```
 
